@@ -10,7 +10,7 @@ Project Title : Audiobook Trends &Sales
 
  3. Dataset 
   • Source:
-  `C:\Users\USER\OneDrive\Desktop\Data Analytics\Assignments\Mini project\Datasets\Datasets\audible_uncleaned.csv`
+    C:\Users\PC\Downloads\Datasets.zip\Datasets
   • Data contains 
    Name, Author, Narrator, Time, Release Date, Star, Price
 
